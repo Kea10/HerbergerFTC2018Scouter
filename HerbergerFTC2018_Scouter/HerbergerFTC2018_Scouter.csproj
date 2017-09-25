@@ -36,6 +36,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="TeamClass.cs" />
     <Compile Include="AutonomousProgram.cs" />
+    <Compile Include="ManualProgram.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>
